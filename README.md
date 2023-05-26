@@ -1,4 +1,4 @@
 # My Repository
 
-Description updated
+Description
 
